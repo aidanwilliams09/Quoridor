@@ -1,0 +1,16 @@
+W: f2, d7h, f8h
+B: e9, e2h, c1h, e1h
+
+1. e8 f2
+2. e7 f3
+3. e6 f4
+4. e5 e6
+5. e4 f7
+6. d7h e2h
+7. e3 e7
+8. d3 g8
+9. d2 c1h
+10. e2 e1h
+11. f8h f8
+12. f2 f9
+End: 0-1

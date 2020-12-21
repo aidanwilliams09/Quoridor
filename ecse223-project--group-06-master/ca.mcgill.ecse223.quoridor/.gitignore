@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+ca.mcgill.ecse223.quoridor/
+=======
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+ca.mcgill.ecse223.quoridor/
+>>>>>>> iteration-4
